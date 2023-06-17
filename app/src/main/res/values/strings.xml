@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Alerts</string>
+    <string name="heading">Alerts</string>
+    <string name="toast">Toast</string>
+    <string name="snackBar">SnackBar</string>
+    <string name="dialog">Alert Dialog</string>
+    <string name="customDialog">Custom Dialog</string>
+</resources>
